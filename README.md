@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulRehman-002
 - 👀 I’m interested in
 - --> Developing Mobile Apps using flutter, firebase, Node js + Mongo DB
-- -->Developing Web Apps in MERN
+- --> Developing Web Apps in MERN
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on mobile app development using flutter
 - 📫 You can reach me on gmail on 002abdulrehman@gmail.com
