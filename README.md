@@ -1,9 +1,11 @@
-# 💫 About Me:
-👋 Hi, I'm **Abdul Rehman** - Senior Flutter Mobile App Developer
+<h1 align="center">Hello 👋, I'm Abdul Rehman!</h1>
+<h3 align="center">🚀 Senior Flutter Mobile App Developer</h3>
 
-🚀 **4 Years** of experience building high-quality cross-platform mobile applications using **Flutter** and native **iOS (Swift)** development
+---
 
-💼 Currently **Team Lead & Senior Flutter Developer** at The Right Software, leading cross-platform app development, mentoring junior developers, conducting code reviews, and ensuring best practices to deliver scalable, production-grade mobile applications
+### 💫 About Me:
+
+I am Senior Flutter & Swift Developer with 4 years of hands-on experience building and deploying high-quality cross-platform mobile applications and native iOS apps. Currently serving as Team Lead at The Right Software, where I architect scalable solutions, mentor junior developer, and deliver production-grade applications serving users across Italy, UK, US, Netherlands, UAE etc. I am skilled in Flutter, Dart, Swift UIKit, Firebase, Supabase, REST APIs, WebSockets, and state management (GetX, Provider, Bloc, Riverpod, MobX). Proven track record of publishing 15+ apps to Google Play Store and Apple App Store, implementing payment gateways (Stripe, Google Pay, Apple Pay), real-time features, Google Maps integration, and optimizing performance with Clean Architecture, MVVM, and MVC patterns. Experienced in CI/CD pipelines (GitHub Actions), unit testing, Agile development, and delivering customer-focused solutions with quality assurance and timely delivery.
 
 🔧 **What I Do:**
 - 📱 Cross-platform mobile app development (Flutter/Dart)
@@ -25,6 +27,8 @@
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
 
 # 📱 Featured Projects
 
